@@ -1,0 +1,56 @@
+.container{
+    margin-bottom: 30px;
+}
+.carousel-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 10px 40px;
+}
+.btn-style{
+    background-color: #f14889;
+    border: none;
+    color: aliceblue;
+    padding: 7px 25px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+
+}
+.cat2{
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+}
+.categories img{
+    height: 120px;
+}
+.card-style{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.footer-style{
+    background-color: #fceae8;
+    height: 300px;
+    border-radius: 8px;
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+}
